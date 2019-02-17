@@ -11,7 +11,7 @@ Die Zufriedenheit unserer Kunden ist uns genauso wichtig, wie die höfliche und 
 
 Hier eine kleine Auswahl￼ von Objekten aus unserem Bestand.
 
-{% slider slider.html selector="logo_slider" %}
+{% include slider.html selector="logo_slider" %}
 
 ## Verwaltung
 
