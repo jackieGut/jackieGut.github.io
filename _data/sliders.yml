@@ -1,0 +1,9 @@
+# example slider
+- selector: logo_slider
+  captions: true
+  images:
+    - src: /assets/images/gutzki_logo.jpg
+      alt: gutzki logo
+  settings:
+    height: "'auto'"
+    effect: "'fade'"

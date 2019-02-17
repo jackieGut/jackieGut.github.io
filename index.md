@@ -1,3 +1,7 @@
+---
+image_sliders:
+  - logo_slider
+---
 Unser Familienunternehmen wurde von Herrn Detlef K. Gutzki im Jahre 1967 gegründet. 
 Wir sind Mitglied im [Immobilienverband Deutschland (IVD)](https://nord.ivd.net/) (ehem. Ring Deutscher Makler (RDM)).
 Geschäftsführer der Firma ist Herr Ralf Gutzki, Sohn des Gründers und Kaufmann in der
