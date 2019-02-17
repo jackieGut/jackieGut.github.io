@@ -7,5 +7,6 @@
     - src: /assets/images/gutzki_logo.jpg
       alt: gutzki logo
   settings:
-    height: "'auto'"
-    effect: "'fade'"
+    height: "'16:9'"
+    effect: "'slide'"
+    interval: 10000
