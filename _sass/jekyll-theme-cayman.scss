@@ -127,8 +127,8 @@ a {
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem;
-  border-top: 2px solid #fff;
-  border-bottom: 2px solid #fff;
+  border-top: 1px solid #aaa;
+  border-bottom: 1px solid #aaa;
   line-height: 1em;
 
   @include large {
