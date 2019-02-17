@@ -11,10 +11,75 @@ Hier eine kleine Auswahl￼ von Objekten aus unserem Bestand.
 
 ## Verwaltung
 
-- Wohneigentumsgemeinschaften (WEG)
-- Sondereigentumsverwaltung
-- Zinshäuser/Mehrfamilienhäuser
-- Gewerbe
+<details>
+  <summary>Wohneigentumsgemeinschaften (WEG)</summary><br>
+Wir verwalten Eigentumswohnungen mit der Profi-Software GES von Aareon. 
+Neben den Vorteilen das Neue Gesetzliche Anordnungen Zeitnahe umgesetzt werden,
+bietet die Jahresabrechnung Ihnen zB. die gesonderte Kennzeichnung der Betriebskosten 
+und die Zusätzlichen Angaben für Ihre Steuererklärung an.
+
+Das Verwaltungskonto der WEG befindet sich bei der Aareal Bank und ist nach Gesetzlichen
+Vorschriften ein WEG-Verwaltungskonto getrennt von anderen Vermögen.
+Die Aareal Bank unterstützt Verwaltern beim richtigen einrichten eines WEG-Verwalter-Kontos.   
+
+Unsere Leistungen:     
+* Überwachung der Wohngeldzahlungen. 
+* Handwerker beauftragen und überprüfen. 
+* Rechnungsprüfung einmal jährlich. 
+* Eigentümerversammlung einmal jährlich. 
+* Wohngeldabrechnung. 
+* Vermietung Ihrer Eigentumswohnung. 
+* Verkauf Ihrer Eigentumswohnung.
+* Beratung und Betreuung. 
+</details>
+
+<details>
+  <summary>Sondereigentumsverwaltung</summary><br>
+  Wir verwalten Ihre Vermieteten Eigentumswohnungen mit der Profi-Software GES-3 und 
+verrechnen das Wohngeld mit den Mieteingängen.
+
+Unsere Leistungen:  
+* Mieteingänge überprüfen, ggf. Mahnungen schreiben. 
+* Abrechnungen, monatlich, Quartale oder Jahr. 
+* Betriebskostenabrechnung für den Mieter. 
+* Heizkostenabrechnung für den Mieter. 
+* Vermietung leerer Wohnungen. 
+* Betreuung und Beratung (Modernisierung, Reparaturen, Dachausbau, u.s.w.) 
+* Handwerker beauftragen und überwachen. 
+* Regelmäßige Mieterhöhungen.
+</details>
+
+<details><summary>Zinshäuser/Mehrfamilienhäuser</summary><br>
+Verwaltung Ihrer Zinshäuser durch Profi-Software:   
+* GES-3 
+* Datenbank-Verwaltung für andere Banken.
+  
+Unsere Leistungen:  
+* Mieteingänge überprüfen, ggf. Mahnungen schreiben. 
+* Abrechnungen, monatlich, Quartale oder Jahr. 
+* Betriebskostenabrechnung für den Mieter. 
+* Heizkostenabrechnung für den Mieter. 
+* Vermietung leerer Wohnungen. 
+* Betreuung und Beratung (Modernisierung, Reparaturen, Dachausbau, u.s.w.) 
+* Handwerker beauftragen und überwachen. 
+* Regelmäßige Mieterhöhungen.
+</details>
+
+<details><summary>Gewerbe</summary><br>
+  Wir verwalten Ihr vermietetes Gewerbeobjekt mit Profi-Software 
+* GES-3 
+* Datenbank-Verwaltung für andere Banken.
+
+Unsere Leistungen: 
+* Mieteingänge überprüfen, ggf. Mahnungen schreiben. 
+* Abrechnungen, monatlich, Quartale oder Jahr. 
+* Betriebskostenabrechnung für den Mieter. 
+* Heizkostenabrechnung für den Mieter. 
+* Vermietung. 
+* Betreuung und Beratung (Modernisierung, Reparaturen, u.s.w.) 
+* Handwerker beauftragen und überwachen. 
+* Regelmäßige Mieterhöhungen.
+</details>
 
 ## Wir unterstützen Sie bei
 
