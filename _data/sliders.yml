@@ -2,10 +2,10 @@
 - selector: logo_slider
   captions: true
   images:
+    - src: /assets/images/maria_louisen.jpg
+      alt: maria_louisen
     - src: /assets/images/gutzki_logo.jpg
       alt: gutzki logo
-    - src: /assets/images/gutzki_logo.jpg
-      alt: gutzki logo 2
   settings:
     height: "'auto'"
     effect: "'fade'"
