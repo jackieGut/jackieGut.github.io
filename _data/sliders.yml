@@ -4,8 +4,10 @@
   images:
     - src: /assets/images/maria_louisen.jpg
       alt: maria_louisen
-    - src: /assets/images/gutzki_logo.jpg
-      alt: gutzki logo
+    - src: /assets/images/alster.jpg
+      alt: alster
+    - src: /assets/images/alster_back.jpg
+      alt: alster_2
   settings:
     height: "'16:9'"
     effect: "'slide'"
