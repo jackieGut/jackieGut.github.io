@@ -1,5 +1,3 @@
-![alt text][logo]
-
 [logo]: https://github.com/jackieGut/jackieGut.github.io/raw/master/assets/images/gutzki_logo.jpg "Gutzki Immobilien"
 
 Unser Familienunternehmen wurde von Herrn Detlef K. Gutzki im Jahre 1967 gegründet. 
