@@ -1,3 +1,6 @@
+![alt text][logo]
+[logo]: https://github.com/jackieGut.github.io/assets/images/gutzki_logo.jpg "Gutzki Immobilien"
+
 Unser Familienunternehmen wurde von Herrn Detlef K. Gutzki im Jahre 1967 gegründet. 
 Wir sind Mitglied im [Immobilienverband Deutschland (IVD)](https://nord.ivd.net/) (ehem. Ring Deutscher Makler (RDM)).
 Geschäftsführer der Firma ist Herr Ralf Gutzki, Sohn des Gründers und Kaufmann in der
@@ -43,4 +46,4 @@ allowfullscreen>
 
 ***
 
-Impressum   | [Allgemeine Geschäftsbedingungen](https://jackiegut.github.io/subpages/agb)   | Datenschutz
+[Impressum](https://jackiegut.github.io/subpages/impressum)   | [Allgemeine Geschäftsbedingungen](https://jackiegut.github.io/subpages/agb)   | Datenschutz
