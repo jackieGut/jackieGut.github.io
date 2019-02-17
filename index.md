@@ -11,9 +11,7 @@ Die Zufriedenheit unserer Kunden ist uns genauso wichtig, wie die höfliche und 
 
 Hier eine kleine Auswahl￼ von Objekten aus unserem Bestand.
 
-{% slider %}
-  ![alt text 1](https://github.com/jackieGut/jackieGut.github.io/raw/master/assets/images/gutzki_logo.jpg)
-{% endslider %}
+{% slider slider.html selector="logo_slider" %}
 
 ## Verwaltung
 
