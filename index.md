@@ -77,19 +77,19 @@ Unsere Leistungen:<br>
   Wir verwalten Ihr vermietetes Gewerbeobjekt mit Profi-Software<br>
  <ul>
 <li>GES-3</li>
-<li>Datenbank-Verwaltung für andere Banken./li>
+<li>Datenbank-Verwaltung für andere Banken.</li>
 </ul>
 
 Unsere Leistungen:<br> 
 <ul>
-<li>ieteingänge überprüfen, ggf. Mahnungen schreiben. </li>
-<li>brechnungen, monatlich, Quartale oder Jahr. </li>
-<li>etriebskostenabrechnung für den Mieter. </li>
-<li>eizkostenabrechnung für den Mieter. </li>
-<li>ermietung. </li>
-<li>etreuung und Beratung (Modernisierung, Reparaturen, u.s.w.) </li>
-<li>andwerker beauftragen und überwachen. </li>
-<li>egelmäßige Mieterhöhungen.</li>
+<li>Mieteingänge überprüfen, ggf. Mahnungen schreiben. </li>
+<li>Abrechnungen, monatlich, Quartale oder Jahr. </li>
+<li>Betriebskostenabrechnung für den Mieter. </li>
+<li>Heizkostenabrechnung für den Mieter. </li>
+<li>Vermietung. </li>
+<li>Betreuung und Beratung (Modernisierung, Reparaturen, u.s.w.) </li>
+<li>Handwerker beauftragen und überwachen. </li>
+<li>Regelmäßige Mieterhöhungen.</li>
 </ul>
 </details>
 
