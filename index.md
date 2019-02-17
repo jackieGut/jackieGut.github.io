@@ -24,15 +24,15 @@ Die Aareal Bank unterstützt Verwaltern beim richtigen einrichten eines WEG-Verw
 
 Unsere Leistungen:<br>
 <ul>
-<li>Überwachung der Wohngeldzahlungen<\li> 
-<li>Handwerker beauftragen und überprüfen<\li>
-<li>Rechnungsprüfung einmal jährlich<\li>
-<li>Eigentümerversammlung einmal jährlich<\li> 
-<li>Wohngeldabrechnung<\li>
-<li>Vermietung Ihrer Eigentumswohnung<\li>
-<li>Verkauf Ihrer Eigentumswohnung<\li>
-<li>Beratung und Betreuung<\li>
-<\ul>
+<li>Überwachung der Wohngeldzahlungen</li> 
+<li>Handwerker beauftragen und überprüfen</li>
+<li>Rechnungsprüfung einmal jährlich</li>
+<li>Eigentümerversammlung einmal jährlich</li> 
+<li>Wohngeldabrechnung</li>
+<li>Vermietung Ihrer Eigentumswohnung</li>
+<li>Verkauf Ihrer Eigentumswohnung</li>
+<li>Beratung und Betreuung</li>
+</ul>
 </details>
 
 <details>
