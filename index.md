@@ -1,5 +1,6 @@
 ![alt text][logo]
-[logo]: https://github.com/jackieGut.github.io/assets/images/gutzki_logo.jpg "Gutzki Immobilien"
+
+[logo]: https://github.com/jackieGut/jackieGut.github.io/raw/master/assets/images/gutzki_logo.jpg "Gutzki Immobilien"
 
 Unser Familienunternehmen wurde von Herrn Detlef K. Gutzki im Jahre 1967 gegründet. 
 Wir sind Mitglied im [Immobilienverband Deutschland (IVD)](https://nord.ivd.net/) (ehem. Ring Deutscher Makler (RDM)).
