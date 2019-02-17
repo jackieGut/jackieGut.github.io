@@ -4,6 +4,8 @@
   images:
     - src: /assets/images/gutzki_logo.jpg
       alt: gutzki logo
+    - src /assets/images/gutzki_logo.jpg
+      alt: gutzki logo 2
   settings:
     height: "'auto'"
     effect: "'fade'"
