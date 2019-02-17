@@ -16,21 +16,23 @@ Hier eine kleine Auswahl￼ von Objekten aus unserem Bestand.
 Wir verwalten Eigentumswohnungen mit der Profi-Software GES von Aareon. 
 Neben den Vorteilen das Neue Gesetzliche Anordnungen Zeitnahe umgesetzt werden,
 bietet die Jahresabrechnung Ihnen zB. die gesonderte Kennzeichnung der Betriebskosten 
-und die Zusätzlichen Angaben für Ihre Steuererklärung an.
+und die Zusätzlichen Angaben für Ihre Steuererklärung an.<br><br>
 
 Das Verwaltungskonto der WEG befindet sich bei der Aareal Bank und ist nach Gesetzlichen
 Vorschriften ein WEG-Verwaltungskonto getrennt von anderen Vermögen.
-Die Aareal Bank unterstützt Verwaltern beim richtigen einrichten eines WEG-Verwalter-Kontos.   
+Die Aareal Bank unterstützt Verwaltern beim richtigen einrichten eines WEG-Verwalter-Kontos.<br><br>   
 
-Unsere Leistungen:     
-* Überwachung der Wohngeldzahlungen. 
-* Handwerker beauftragen und überprüfen. 
-* Rechnungsprüfung einmal jährlich. 
-* Eigentümerversammlung einmal jährlich. 
-* Wohngeldabrechnung. 
-* Vermietung Ihrer Eigentumswohnung. 
-* Verkauf Ihrer Eigentumswohnung.
-* Beratung und Betreuung. 
+Unsere Leistungen:<br>
+<ul>
+<li>Überwachung der Wohngeldzahlungen<\li> 
+<li>Handwerker beauftragen und überprüfen<\li>
+<li>Rechnungsprüfung einmal jährlich<\li>
+<li>Eigentümerversammlung einmal jährlich<\li> 
+<li>Wohngeldabrechnung<\li>
+<li>Vermietung Ihrer Eigentumswohnung<\li>
+<li>Verkauf Ihrer Eigentumswohnung<\li>
+<li>Beratung und Betreuung<\li>
+<\ul>
 </details>
 
 <details>
