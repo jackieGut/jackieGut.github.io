@@ -1,3 +1,7 @@
+---
+title: Gutzki Immobilien seit 1967
+---
+
 ## Allgemeine Geschäftsbedingungen
 
 1. Alle unsere Mitteilungen und Angebote sind nur für den Interessent bestimmt und vertraulich zu behandeln. 
