@@ -19,7 +19,7 @@ Hier eine kleine Auswahl￼ von Objekten aus unserem Bestand.
 - Vermietung (Wohnung und Gewerbe)
 - Verkauf (Wohnungen und Häuser)
 
-## Kontakt
+***
 
 Detlef K.Gutzki e.K. Inh. Ralf Gutzki  
 Braamkamp 32  
