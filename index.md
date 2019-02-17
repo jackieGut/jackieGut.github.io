@@ -43,4 +43,4 @@ allowfullscreen>
 
 ***
 
-Impressum   | Allgemeine Geschäftsbedingungen   | Datenschutz
+Impressum   | [Allgemeine Geschäftsbedingungen](https://jackiegut.github.io/subpages/agb)   | Datenschutz
