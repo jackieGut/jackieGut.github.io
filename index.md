@@ -38,49 +38,59 @@ Unsere Leistungen:<br>
 <details>
   <summary>Sondereigentumsverwaltung</summary><br>
   Wir verwalten Ihre Vermieteten Eigentumswohnungen mit der Profi-Software GES-3 und 
-verrechnen das Wohngeld mit den Mieteingängen.
+verrechnen das Wohngeld mit den Mieteingängen.<br><br>
 
-Unsere Leistungen:  
-* Mieteingänge überprüfen, ggf. Mahnungen schreiben. 
-* Abrechnungen, monatlich, Quartale oder Jahr. 
-* Betriebskostenabrechnung für den Mieter. 
-* Heizkostenabrechnung für den Mieter. 
-* Vermietung leerer Wohnungen. 
-* Betreuung und Beratung (Modernisierung, Reparaturen, Dachausbau, u.s.w.) 
-* Handwerker beauftragen und überwachen. 
-* Regelmäßige Mieterhöhungen.
+Unsere Leistungen:<br> 
+<ul>
+<li>Mieteingänge überprüfen, ggf. Mahnungen schreiben. </li>
+<li>Abrechnungen, monatlich, Quartale oder Jahr. </li>
+<li>Betriebskostenabrechnung für den Mieter. </li>
+<li>Heizkostenabrechnung für den Mieter. </li>
+<li>Vermietung leerer Wohnungen. </li>
+<li>Betreuung und Beratung (Modernisierung, Reparaturen, Dachausbau, u.s.w.) </li>
+<li>Handwerker beauftragen und überwachen. </li>
+<li>Regelmäßige Mieterhöhungen.</li>
+</ul>
 </details>
 
 <details><summary>Zinshäuser/Mehrfamilienhäuser</summary><br>
-Verwaltung Ihrer Zinshäuser durch Profi-Software:   
-* GES-3 
-* Datenbank-Verwaltung für andere Banken.
+Verwaltung Ihrer Zinshäuser durch Profi-Software:<br>
+<ul>
+<li>GES-3 </li>
+<li>Datenbank-Verwaltung für andere Banken.</li>
+</ul>
   
-Unsere Leistungen:  
-* Mieteingänge überprüfen, ggf. Mahnungen schreiben. 
-* Abrechnungen, monatlich, Quartale oder Jahr. 
-* Betriebskostenabrechnung für den Mieter. 
-* Heizkostenabrechnung für den Mieter. 
-* Vermietung leerer Wohnungen. 
-* Betreuung und Beratung (Modernisierung, Reparaturen, Dachausbau, u.s.w.) 
-* Handwerker beauftragen und überwachen. 
-* Regelmäßige Mieterhöhungen.
+Unsere Leistungen:<br> 
+<ul>
+<li>Mieteingänge überprüfen, ggf. Mahnungen schreiben. </li>
+<li>Abrechnungen, monatlich, Quartale oder Jahr. </li>
+<li>Betriebskostenabrechnung für den Mieter. </li>
+<li>Heizkostenabrechnung für den Mieter. </li>
+<li>Vermietung leerer Wohnungen. </li>
+<li>Betreuung und Beratung (Modernisierung, Reparaturen, Dachausbau, u.s.w.) </li>
+<li>Handwerker beauftragen und überwachen. </li>
+<li>Regelmäßige Mieterhöhungen.</li>
+</ul>
 </details>
 
 <details><summary>Gewerbe</summary><br>
-  Wir verwalten Ihr vermietetes Gewerbeobjekt mit Profi-Software 
-* GES-3 
-* Datenbank-Verwaltung für andere Banken.
+  Wir verwalten Ihr vermietetes Gewerbeobjekt mit Profi-Software<br>
+ <ul>
+<li>GES-3</li>
+<li>Datenbank-Verwaltung für andere Banken./li>
+</ul>
 
-Unsere Leistungen: 
-* Mieteingänge überprüfen, ggf. Mahnungen schreiben. 
-* Abrechnungen, monatlich, Quartale oder Jahr. 
-* Betriebskostenabrechnung für den Mieter. 
-* Heizkostenabrechnung für den Mieter. 
-* Vermietung. 
-* Betreuung und Beratung (Modernisierung, Reparaturen, u.s.w.) 
-* Handwerker beauftragen und überwachen. 
-* Regelmäßige Mieterhöhungen.
+Unsere Leistungen:<br> 
+<ul>
+<li>ieteingänge überprüfen, ggf. Mahnungen schreiben. </li>
+<li>brechnungen, monatlich, Quartale oder Jahr. </li>
+<li>etriebskostenabrechnung für den Mieter. </li>
+<li>eizkostenabrechnung für den Mieter. </li>
+<li>ermietung. </li>
+<li>etreuung und Beratung (Modernisierung, Reparaturen, u.s.w.) </li>
+<li>andwerker beauftragen und überwachen. </li>
+<li>egelmäßige Mieterhöhungen.</li>
+</ul>
 </details>
 
 ## Wir unterstützen Sie bei
