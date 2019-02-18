@@ -122,11 +122,3 @@ frameborder="0"
 style="border:0"
 allowfullscreen>
 </iframe>
-
-
-***
-
-[Startseite](https://jackiegut.github.io/)   |
-[Impressum](https://jackiegut.github.io/subpages/impressum)   |
-[Allgemeine Geschäftsbedingungen](https://jackiegut.github.io/subpages/agb)   |
-[Datenschutz](https://jackiegut.github.io/subpages/datenschutz)
