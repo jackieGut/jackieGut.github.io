@@ -110,7 +110,7 @@ Detlef K.Gutzki e.K. Inh. Ralf Gutzki
 Braamkamp 32  
 22297 Hamburg  
 
-E-Mail: [info@gutzki-immobilien.de](mailto:info@gutzki-immobilien.de)
+E-Mail: [info@gutzki-immobilien.de](mailto:info@gutzki-immobilien.de)  
 Tel.: [040 - 464570](tel:04046570)  
 Fax: [040 - 4804857](tel:0404804857)  
 
