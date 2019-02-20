@@ -26,13 +26,13 @@ Die Daten -erhebung, -verarbeitung und -nutzung erfolgt zur Ausübung der oben a
 
 5. Beschreibung der betroffenen Personengruppen und der diesbezüglichen Daten oder Datenkategorien:<br>
 Es werden im wesentlichen personenbezogene Daten zu folgenden Personengruppen, soweit es sich um natürliche Personen handelt, erhoben, verarbeitet und genutzt, soweit diese zur Erfüllung der unter 4. genannten Zwecke erforderlich sind:<br>
-<li>Kundendaten: Adressdaten, Bankdaten, Ansprechpartner, Vertragsdaten, Steuerungsdaten</li><br> 
-<li>Interessentendaten: Adressdaten, Bankdaten, Verdienst, Personalausweisnummer</li><br> 
-<li>Mitarbeiterdaten: Adressdaten, Bankdaten, Bewerberdaten, Vertragsdaten, Daten zur Personalverwaltung und -steuerung</li><br> 
-<li>Daten von Verwaltungsbeirat: Adressdaten, Bankdaten</li><br> 
-<li>Daten von Geschäftspartnern, Agenturen, Vermittlern und Maklern: Adressdaten, Bankdaten, Abrechnungsdaten</li><br> 
-<li>Lieferantendaten: Adressdaten, Bankdaten, Funktionsdaten</li><br>
-<li>Rechtsanwaltsdaten: Adressdaten, Bankdaten, Funktionsdaten</li><br>
+Kundendaten: Adressdaten, Bankdaten, Ansprechpartner, Vertragsdaten, Steuerungsdaten<br> 
+Interessentendaten: Adressdaten, Bankdaten, Verdienst, Personalausweisnummer<br> 
+Mitarbeiterdaten: Adressdaten, Bankdaten, Bewerberdaten, Vertragsdaten, Daten zur Personalverwaltung und -steuerung<br> 
+Daten von Verwaltungsbeirat: Adressdaten, Bankdaten<br> 
+Daten von Geschäftspartnern, Agenturen, Vermittlern und Maklern: Adressdaten, Bankdaten, Abrechnungsdaten<br> 
+Lieferantendaten: Adressdaten, Bankdaten, Funktionsdaten<br>
+Rechtsanwaltsdaten: Adressdaten, Bankdaten, Funktionsdaten
 
 6. Empfänger oder Kategorien von Empfängern, denen Daten mitgeteilt werden können:<br> 
 6.1 Öffentliche Stellen, die Daten aufgrund gesetzlicher Vorschriften (Vorliegen vorrangiger Rechtsvorschriften) erhalten, z.B. Sozialversicherungsträger und Finanzbehörden<br>
