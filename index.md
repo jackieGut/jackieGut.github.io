@@ -144,6 +144,7 @@ Unsere Leistungen:<br>
 
 
 ***
+<img src="assets/images/HK_Zertifik_2019.jpeg" alt="Handelskammer Zertifikat 2019 Dualausbildung" align="right" width="20%">
 
 
 Detlef K.Gutzki e.K. Inh. Ralf Gutzki  
@@ -153,8 +154,6 @@ Braamkamp 32
 E-Mail: [info@gutzki-immobilien.de](mailto:info@gutzki-immobilien.de)  
 Tel.: [040 - 464570](tel:04046570)  
 Fax: [040 - 4804857](tel:0404804857)  
-
-<img src="assets/images/HK_Zertifik_2019.jpeg" alt="Handelskammer Zertifikat 2019 Dualausbildung" align="right" width="50%">
 
 <iframe
 src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9470.247207600178!2d10.00036!3d53.60128!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfd8d7a52e3ca2449!2sDetlef+K.+Gutzki+e.+K.+Inh.+Ralf+Gutzki!5e0!3m2!1sen!2sde!4v1550415717896"
