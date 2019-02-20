@@ -8,9 +8,9 @@ title: Gutzki Immobilien seit 1967
 Das BDSG schreibt in § 4 g vor, dass der Beauftragte für den Datenschutz jedermann in geeigneter Weise die folgenden Angaben entsprechend § 4 e verfügbar zu machen hat:
 
 1. Name der verantwortlichen Stelle: Detlef K. Gutzki Inh. Ralf Gutzki
-Handelsregister: Amtsgericht Hamburg 
-Registernummer: Hamburg HRA 84242
-Umsatzsteuer-Ident-Nummer: DE 114 103 514 
+Handelsregister: Amtsgericht Hamburg  
+Registernummer: Hamburg HRA 84242  
+Umsatzsteuer-Ident-Nummer: DE 114 103 514  
 
 2. Geschäftsführer: Ralf Gutzki
 
