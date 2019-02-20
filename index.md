@@ -49,7 +49,7 @@ Unsere Leistungen:<br>
 <li>Vermietung Ihrer Eigentumswohnung</li>
 <li>Beratung und Mitwirkung beim Verkauf Ihrer Eigentumswohnung</li>
 </ul>
-Als WEG Verwalter verwalten wir nicht nur einfach Ihre Immobilien sondern damit auch Ihr Vermögen, weshalb wir neben den alltäglich anfallenden Aufgaben auch immer ein Auge auf potenzielle Wertsteigerung legen.
+Als Ihr WEG Verwalter verwalten wir nicht nur einfach Ihre Immobilien sondern damit auch Ihr Vermögen, weshalb wir neben den alltäglich anfallenden Aufgaben auch immer ein Auge auf potenzielle Wertsteigerung legen.
 </ul>
 </details>
 
@@ -108,6 +108,8 @@ Unsere Leistungen:<br>
 <li>Betreuung und Beratung (Modernisierung, Reparaturen, Dachausbau, u.s.w.) </li>
 <li>Regelmäßige Mieterhöhungen.</li>
 </ul>
+Als Ihr Verwalter verwalten wir nicht nur einfach Ihre Immobilien sondern damit auch Ihr Vermögen, weshalb wir neben den alltäglich anfallenden Aufgaben auch immer ein Auge auf potenzielle Wertsteigerung legen.
+</ul>
 </details>
 
 <details><summary>Gewerbe</summary><br>
@@ -119,14 +121,21 @@ Unsere Leistungen:<br>
 
 Unsere Leistungen:<br> 
 <ul>
-<li>Mieteingänge überprüfen, ggf. Mahnungen schreiben. </li>
-<li>Abrechnungen, monatlich, Quartale oder Jahr. </li>
-<li>Betriebskostenabrechnung für den Mieter. </li>
-<li>Heizkostenabrechnung für den Mieter. </li>
-<li>Vermietung. </li>
-<li>Betreuung und Beratung (Modernisierung, Reparaturen, u.s.w.) </li>
-<li>Handwerker beauftragen und überwachen. </li>
-<li>Regelmäßige Mieterhöhungen.</li>
+<li>Vermietung des Gerwebes</li>
+<li>Abschluss von Gewerbemietverträgen</li>
+<li>Übergabe/Übernahme des Gewerbes bei Mieterwechseln</li>  
+<li>Führung einer ordentlichen Mietbuchhaltung</li>
+<li>Mahnwesen und ggf. gerichtliche Geltendmachung offener Forderungen</li>
+<li>Erfassung der Ein-/Ausgaben in einer schlüssigen Buchführung</li> 
+<li>Erstellung der Abrechnungen, monatlich, Quartale oder Jahr. </li>
+<li>Erstellung der Betriebskostenabrechnung für den Mieter. </li>
+<li>Beauftragung, Überwachung und Prüfung von Reparaturen innerhalb Ihrers Objektes</li>
+<li>Entgegennahme von Kündigungen</li>
+<li>Vertretung Ihrer Interessen gegenüber den Mietern</li>
+<li>Erledigung des Schriftverkehrs</li>  
+<li>Einleitung von Sofortmaßnahmen in Notfällen</li>  
+<li>Bearbeitung sämtlicher Probleme und/oder sonstige Anliegen mit dem Mieter</li>   
+<li>Betreuung und Beratung (Modernisierung, Reparaturen, Ladenumbau, u.s.w.) </li>
 </ul>
 </details>
 
