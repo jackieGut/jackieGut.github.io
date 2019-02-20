@@ -2,7 +2,7 @@
 - selector: logo_slider
   captions: true
   images:
-   - src: /assets/images/HK_Zertifik_2019.jpg
+   - src: /HK_Zertifik_2019.jpg
       alt: HK_Zertifik_2019
     - src: /assets/images/maria_louisen.jpg
       alt: maria_louisen
