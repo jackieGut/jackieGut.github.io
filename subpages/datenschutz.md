@@ -26,7 +26,7 @@ Die Daten -erhebung, -verarbeitung und -nutzung erfolgt zur Ausübung der oben a
 
 5. Beschreibung der betroffenen Personengruppen und der diesbezüglichen Daten oder Datenkategorien:<br>
 Es werden im wesentlichen personenbezogene Daten zu folgenden Personengruppen, soweit es sich um natürliche Personen handelt, erhoben, verarbeitet und genutzt, soweit diese zur Erfüllung der unter 4. genannten Zwecke erforderlich sind:<br>
-Kundendaten: Adressdaten, Bankdaten, Ansprechpartner, Vertragsdaten, Steuerungsdaten<br> 
+<div style="text-indent:10px;">10pxKundendaten: Adressdaten, Bankdaten, Ansprechpartner, Vertragsdaten, Steuerungsdaten</div><br> 
 Interessentendaten: Adressdaten, Bankdaten, Verdienst, Personalausweisnummer<br> 
 Mitarbeiterdaten: Adressdaten, Bankdaten, Bewerberdaten, Vertragsdaten, Daten zur Personalverwaltung und -steuerung<br> 
 Daten von Verwaltungsbeirat: Adressdaten, Bankdaten<br> 
