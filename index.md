@@ -28,13 +28,27 @@ Die Aareal Bank unterstützt Verwaltern beim richtigen einrichten eines WEG-Verw
 
 Unsere Leistungen:<br>
 <ul>
-<li>Überwachung der Wohngeldzahlungen</li> 
-<li>Handwerker beauftragen und überprüfen</li>
-<li>Rechnungsprüfung einmal jährlich</li>
-<li>Eigentümerversammlung einmal jährlich</li> 
+<li>Erstellung und Prüfung von Wirtschaftsplänen</li>
+<li>Abrechnungen, inkl. Rechnungskontrolle und Belegprüfung</li> 
+<li>Buchführung und Prüfung aller Geldein- und Ausgänge</li>  
+<li>Inkasso, Liquidationsplanung, Wirtschaftlichkeit, Rechenschaftslegung gegenüber den Eigentümern</li>
+<li>Verwaltung und Disponierung des Geldverkehrs, Bearbeitung von Lastschriftabbuchungen</li> 
+<li>Buchführung und Prüfung aller Geldein- und Ausgänge</li>    
+<li>Überwachung der Wohngeldzahlungen</li>
 <li>Wohngeldabrechnung</li>
+<li>Veranlassung, bzw. Erstellung von Heizkostenabrechnungen</li>
+<li>Errechnung und Anforderung von Sonderumlagen</li>
+<li>Regelung von Personalangelegenheiten von Angestellten des WEG (Hausmeister, Müllbeauftragte, Verwaltungsbeiräte), einschließlich Gehaltszahlungen, Lohnbuchungen und Abführungen von Lohnsteuer, Sozialabgaben, Meldung an das Finanzamt, Krankenversicherung, Sozialversicherungsträger, etc.</li>
+<li>Überwachung von Objekten, ggf. durch regelmäßige Begehungen</li>
+<li>Planung, Vergabe, Überwachung und Abrechnung von Instandsetzungs- und Instandhaltungsarbeiten, einschließlich Preisanfrage, Ausschreibungen, Auftragsvergabe, Rechnungskontrolle, Mängelrügen, Einhaltung Gewährleistungsansprüche</li>
+<li>Veranlassung von Schadensbeseitigungen durch Handwerker</li>     
+<li>Erstattung von Schadensmeldungen gegenüber Versicherung und Verursacher</li>
+<li>Verhandlung mit Ämtern und Beschaffung öffentlich-rechtlicher Genehmigungen</li>
+<li>Rechnungsprüfung einmal jährlich</li>  
+<li>Anwendung aktueller Gesetzesänderungen und Rechtsprechungen auf die WEG</li>
+<li>Eigentümerversammlung einmal jährlich</li> 
 <li>Vermietung Ihrer Eigentumswohnung</li>
-<li>Verkauf Ihrer Eigentumswohnung</li>
+<li>Beratung uns Mitwrikung beim Verkauf Ihrer Eigentumswohnung</li>
 <li>Beratung und Betreuung</li>
 </ul>
 </details>
