@@ -144,7 +144,7 @@ Unsere Leistungen:<br>
 
 
 ***
-<img src="assets/images/HK_Zertifik_2019.jpeg" alt="Handelskammer Zertifikat 2019 Dualausbildung" align="right" width="20%">
+<img src="assets/images/HK_Zertifik_2019.jpeg" alt="Handelskammer Zertifikat 2019 Dualausbildung" align="right" width="25%">
 
 
 Detlef K.Gutzki e.K. Inh. Ralf Gutzki  
