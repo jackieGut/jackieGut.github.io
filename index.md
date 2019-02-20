@@ -55,8 +55,7 @@ Als Ihr WEG Verwalter verwalten wir nicht nur einfach Ihre Immobilien sondern da
 
 <details>
   <summary>Verwaltung Ihres Sondereigentums</summary><br>
-  Zusätzlich bieten wie Ihnen als vermietendem Eigentümer die Möglichkeit, auch die komplett Verwaltung Ihrer Wohnungen zu übernehmen.
-  Wir verwalten Ihre Vermieteten Eigentumswohnungen mit der Profi-Software GES-3 und 
+  Wir verwalten für Sie Ihre Vermieteten Eigentumswohnungen mit der Profi-Software GES-3 und 
 verrechnen das Wohngeld mit den Mieteingängen.<br><br>
 
 Unsere Leistungen:<br> 
