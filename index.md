@@ -88,13 +88,22 @@ Verwaltung Ihrer Zinshäuser durch Profi-Software:<br>
   
 Unsere Leistungen:<br> 
 <ul>
-<li>Mieteingänge überprüfen, ggf. Mahnungen schreiben. </li>
-<li>Abrechnungen, monatlich, Quartale oder Jahr. </li>
-<li>Betriebskostenabrechnung für den Mieter. </li>
-<li>Heizkostenabrechnung für den Mieter. </li>
-<li>Vermietung leerer Wohnungen. </li>
+<li>Vermietung leerer Wohnungen</li>
+<li>Abschluss von Mietverträgen</li>
+<li>Übergabe/Übernahme der Wohnung bei Mieterwechseln</li>  
+<li>Führung einer ordentlichen Mietbuchhaltung</li>
+<li>Mahnwesen und ggf. gerichtliche Geltendmachung offener Forderungen</li>
+<li>Erfassung der Ein-/Ausgaben in einer schlüssigen Buchführung</li> 
+<li>Erstellung der Abrechnungen, monatlich, Quartale oder Jahr. </li>
+<li>Erstellung der Betriebskostenabrechnung für den Mieter. </li>
+<li>Erstellung der Heizkostenabrechnung für den Mieter. </li>
+<li>Beauftragung, Überwachung und Prüfung von Reparaturen innerhalb Ihrer Wohnung</li>
+<li>Entgegennahme von Kündigungen</li>
+<li>Vertretung Ihrer Interessen gegenüber den Mietern</li>
+<li>Erledigung des Schriftverkehrs</li>  
+<li>Einleitung von Sofortmaßnahmen in Notfällen</li>  
+<li>Bearbeitung sämtlicher Probleme und/oder sonstige Anliegen mit dem Mieter</li>   
 <li>Betreuung und Beratung (Modernisierung, Reparaturen, Dachausbau, u.s.w.) </li>
-<li>Handwerker beauftragen und überwachen. </li>
 <li>Regelmäßige Mieterhöhungen.</li>
 </ul>
 </details>
