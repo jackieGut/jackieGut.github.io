@@ -32,8 +32,7 @@ Unsere Leistungen:<br>
 <li>Abrechnungen, inkl. Rechnungskontrolle und Belegprüfung</li> 
 <li>Buchführung und Prüfung aller Geldein- und Ausgänge</li>  
 <li>Inkasso, Liquidationsplanung, Wirtschaftlichkeit, Rechenschaftslegung gegenüber den Eigentümern</li>
-<li>Verwaltung und Disponierung des Geldverkehrs, Bearbeitung von Lastschriftabbuchungen</li> 
-<li>Buchführung und Prüfung aller Geldein- und Ausgänge</li>    
+<li>Verwaltung und Disponierung des Geldverkehrs, Bearbeitung von Lastschriftabbuchungen</li>    
 <li>Überwachung der Wohngeldzahlungen</li>
 <li>Wohngeldabrechnung</li>
 <li>Veranlassung, bzw. Erstellung von Heizkostenabrechnungen</li>
