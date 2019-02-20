@@ -35,6 +35,8 @@ Unsere Leistungen:<br>
 <li>Verwaltung und Disponierung des Geldverkehrs, Bearbeitung von Lastschriftabbuchungen</li>    
 <li>Überwachung der Wohngeldzahlungen</li>
 <li>Wohngeldabrechnung</li>
+<li>Rechnungsprüfung einmal jährlich</li>  
+<li>Eigentümerversammlung einmal jährlich</li>   
 <li>Veranlassung, bzw. Erstellung von Heizkostenabrechnungen</li>
 <li>Errechnung und Anforderung von Sonderumlagen</li>
 <li>Regelung von Personalangelegenheiten von Angestellten des WEG (Hausmeister, Müllbeauftragte, Verwaltungsbeiräte), einschließlich Gehaltszahlungen, Lohnbuchungen und Abführungen von Lohnsteuer, Sozialabgaben, Meldung an das Finanzamt, Krankenversicherung, Sozialversicherungsträger, etc.</li>
@@ -43,9 +45,7 @@ Unsere Leistungen:<br>
 <li>Veranlassung von Schadensbeseitigungen durch Handwerker</li>     
 <li>Erstattung von Schadensmeldungen gegenüber Versicherung und Verursacher</li>
 <li>Verhandlung mit Ämtern und Beschaffung öffentlich-rechtlicher Genehmigungen</li>
-<li>Rechnungsprüfung einmal jährlich</li>  
 <li>Anwendung aktueller Gesetzesänderungen und Rechtsprechungen auf die WEG</li>
-<li>Eigentümerversammlung einmal jährlich</li> 
 <li>Vermietung Ihrer Eigentumswohnung</li>
 <li>Beratung uns Mitwrikung beim Verkauf Ihrer Eigentumswohnung</li>
 <li>Beratung und Betreuung</li>
