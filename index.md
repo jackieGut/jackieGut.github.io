@@ -49,7 +49,7 @@ Unsere Leistungen:<br>
 <li>Vermietung Ihrer Eigentumswohnung</li>
 <li>Beratung und Mitwirkung beim Verkauf Ihrer Eigentumswohnung</li>
 </ul>
-Als Ihr WEG Verwalter verwalten wir nicht nur einfach Ihre Immobilien sondern damit auch Ihr Vermögen, weshalb wir neben den alltäglich anfallenden Aufgaben auch immer ein Auge auf potenzielle Wertsteigerung legen.</ul>
+Als Ihr WEG Verwalter verwalten wir nicht nur einfach Ihre Immobilien sondern damit auch Ihr Vermögen, weshalb wir neben den alltäglich anfallenden Aufgaben auch immer ein Auge auf potenzielle Wertsteigerung legen.<br><br>
 </details>
 
 <details>
