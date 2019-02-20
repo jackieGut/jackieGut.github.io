@@ -47,7 +47,7 @@ Unsere Leistungen:<br>
 <li>Verhandlung mit Ämtern und Beschaffung öffentlich-rechtlicher Genehmigungen</li>
 <li>Anwendung aktueller Gesetzesänderungen und Rechtsprechungen auf die WEG</li>
 <li>Vermietung Ihrer Eigentumswohnung</li>
-<li>Beratung und Mitwrikung beim Verkauf Ihrer Eigentumswohnung</li>
+<li>Beratung und Mitwirkung beim Verkauf Ihrer Eigentumswohnung</li>
 </ul>
 </details>
 
