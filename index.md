@@ -2,11 +2,10 @@
 image_sliders:
   - logo_slider
 ---
-Unser Familienunternehmen wurde von Herrn Detlef K. Gutzki im Jahre 1967 gegründet. 
+Unser Familienunternehmen wurde von Herrn Detlef K. Gutzki im Jahre 1967 gegründet.  
 Wir sind seit 1980 Mitglied im [Immobilienverband Deutschland (IVD)](https://nord.ivd.net/) (ehem. Ring Deutscher Makler (RDM)).
-Geschäftsführer der Firma ist Herr Ralf Gutzki, Sohn des Gründers und Kaufmann in der
-Grundstücks und Immobilienwirtschaft.
-Zusammen mit meiner Frau Wendy Gutzki, studierte Betriebswirtschaftlerin, und meiner gerade in Ausbildung befindlichen Tochter Jacqueline Gutzki sind Ihre Immobilien unser persönliches Anliegen.
+Geschäftsführer der Firma ist Herr Ralf Gutzki, Sohn des Gründers und Kaufmann in der Grundstücks und Immobilienwirtschaft.
+Zusammen mit meiner Frau Wendy Gutzki, studierte Betriebswirtschaftlerin, und meiner gerade in Ausbildung befindlichen Tochter Jacqueline Gutzki sind Ihre Immobilien unser persönliches Anliegen.  
 Seit über 50 Jahren verwalten und betreuen wir Immobilien und schätzen die langjährige und vertrauensvolle Zusammenarbeit mit unseren Kunden.
 Die Zufriedenheit unserer Klienten ist uns genauso wichtig, wie die höfliche und sachliche Betreuung von Eigentümern, Mietern, Käufern und Verkäufern. Wir sind stets bemüht Ihnen mit Rat und Tat zur Seite zu stehen.
 
