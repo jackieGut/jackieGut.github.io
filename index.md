@@ -18,12 +18,12 @@ Hier eine kleine Auswahl￼ von Objekten aus unserem Bestand.
 <details>
   <summary>Wohneigentumsgemeinschaften (WEG)</summary><br>
 Wir verwalten Eigentumswohnungen mit der Profi-Software GES von Aareon. 
-Neben den Vorteilen das Neue Gesetzliche Anordnungen Zeitnahe umgesetzt werden,
+Neben den Vorteilen das neue gesetzliche Anordnungen zeitnahe umgesetzt werden,
 bietet die Jahresabrechnung Ihnen zB. die gesonderte Kennzeichnung der Betriebskosten 
-und die Zusätzlichen Angaben für Ihre Steuererklärung an.<br><br>
+und die zusätzlichen Angaben für Ihre Steuererklärung an.<br><br>
 
-Das Verwaltungskonto der WEG befindet sich bei der Aareal Bank und ist nach Gesetzlichen
-Vorschriften ein WEG-Verwaltungskonto getrennt von anderen Vermögen.
+Das Verwaltungskonto der WEG befindet sich bei der Aareal Bank und ist nach gesetzlichen
+Vorschriften ein WEG-Verwaltungskonto, welches getrennt von anderen Vermögen verwaltet wird.
 Die Aareal Bank unterstützt Verwaltern beim richtigen einrichten eines WEG-Verwalter-Kontos.<br><br>   
 
 Unsere Leistungen:<br>
