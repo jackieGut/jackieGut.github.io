@@ -127,10 +127,8 @@ a {
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem;
-  border-top: 1px solid #aaa;
-  border-bottom: 1px solid #aaa;
   line-height: 1em;
-  font-family: 'Quando', serif;
+  font-family: 'Quando', sans-serif;
   font-weight: bold;
 
   @include large {
