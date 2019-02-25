@@ -4,6 +4,8 @@
   images:
    # - src: /assets/images/maria_louisen.jpg
     #  alt: maria_louisen
+    - src: /assets/images/osterstrasse.jpg
+      alt: osterstrasse
     - src: /assets/images/alster.jpg
       alt: alster
     - src: /assets/images/alster_back.jpg
